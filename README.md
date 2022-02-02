@@ -1,2 +1,2 @@
 # formulario-de-contacto
-Es un formulario creado para contactarme
+Es un formulario creado para contactar
